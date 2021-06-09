@@ -1,5 +1,5 @@
 # Loan-Default-Prediction
-![alt text](https://i.investopedia.com/dimages/graphics/default.png)
+![image](https://user-images.githubusercontent.com/64405940/121405500-bf715200-c97a-11eb-8161-459003a4d602.png)
 
 
 
