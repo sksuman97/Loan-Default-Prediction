@@ -18,8 +18,23 @@ XGBoost (Extreme Gradient Boosting) is an advanced implementation of the gradien
 
 XGBoost was developed by Tianqi Chen in C++ but also enables interfaces for Python, R and Julia. Initially, he started XGBoost as a research project as part of the Distributed (Deep) Machine Learning Community. It became popular in the ML competitions after its use in the winning solution of the Higgs Machine Learning Challenge.
 
+# Credits
+Sumanta | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanta97/ )
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sksuman97/)
+[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sumanta-skm98)
+[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1DkZqmtw2c_I-EEAOw9iyzd-EAeBoJ6nj/view?usp=sharing)
+
+
+Contact me for Data Science Project Collaborations
+
+
 # Conclusion
 
 The last_fico_range, grade, inq_last_6month features were found to be the most relevant for predicting loan default in. The current model tries to predict default biased data from credit analysts grade and assigned interest rate. . The XGB and Rf models provide substantial improvements on traditional credit screening. A recall score significantly and robustly above 90%, with AUC-ROC scores ≃74%. The features provided to the model in our study generalize to any lending activity and institution, beyond P2P lending. The present work could, therefore, be augmented in order to predict loan default risk without the need for human credit screening.
 Only the Random Forest., XGBoost, model is used, but there are many good ones out there even neural networks. The models can also be improved further by finer tunings on hyperparameter.
 In the bank loan behaviour prediction, for example, banks want to control the loss to a acceptable level, so they may use a relatively low threshold. This means more customers will be grouped as “potential bad customers” and their profiles will be checked carefully later by the credit risk management team. In this way, banks can detect the default behaviours in the earlier stage and conduct the corresponding actions to reduce the possible loss.
+
+
+
